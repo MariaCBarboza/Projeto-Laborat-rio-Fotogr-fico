@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\bin\Debug\net10.0\LaboratorioFotografico.exe
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\bin\Debug\net10.0\LaboratorioFotografico.deps.json
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\bin\Debug\net10.0\LaboratorioFotografico.runtimeconfig.json
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\bin\Debug\net10.0\LaboratorioFotografico.dll
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\bin\Debug\net10.0\LaboratorioFotografico.pdb
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\obj\Debug\net10.0\LaboratorioFotografico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\obj\Debug\net10.0\LaboratorioFotografico.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\obj\Debug\net10.0\LaboratorioFotografico.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\obj\Debug\net10.0\LaboratorioFotografico.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\obj\Debug\net10.0\LaboratorioFotografico.dll
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\obj\Debug\net10.0\refint\LaboratorioFotografico.dll
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\obj\Debug\net10.0\LaboratorioFotografico.pdb
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\obj\Debug\net10.0\LaboratorioFotografico.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Nova pasta\LaboratorioFotografico\obj\Debug\net10.0\ref\LaboratorioFotografico.dll
